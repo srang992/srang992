@@ -14,6 +14,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Movie Recommendation App using Streamlit and Docker &lpar;Part-2&rpar;](https://medium.com/@srang992/making-a-movie-recommendation-app-using-streamlit-and-docker-part-2-9f000c491a8f?source=rss-2aa615ea23c3------2)
+- [Making a Movie Recommendation App using Streamlit and Docker &lpar;Part-1&rpar;](https://medium.com/@srang992/making-a-movie-recommendation-app-using-streamlit-and-docker-part-1-8dee8983cea9?source=rss-2aa615ea23c3------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <h3 align="left">Connect with me:</h3>
