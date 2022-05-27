@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@srang992"
+                max_post_count: "5"
+                feed_list: "https://medium.com/feed/@srang992,https://www.analyticsvidhya.com/blog/author/subhradeep06/feed"
