@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Analysis on Dark Chocolates using Python and Plotly](https://www.analyticsvidhya.com/blog/2022/07/analysis-on-dark-chocolates-using-python-and-plotly/)
 - [A Comprehensive Guide to Heroku Postgres](https://www.analyticsvidhya.com/blog/2022/06/a-comprehensive-guide-to-heroku-postgres/)
 - [Video Game Clustering Using Python](https://www.analyticsvidhya.com/blog/2022/06/video-game-clustering-using-python/)
 - [Customer Churn Prediction of a Telecom Company Using Python](https://www.analyticsvidhya.com/blog/2022/06/customer-churn-prediction-of-a-telecom-company-using-python/)
 - [Scraping Jobs on LinkedIn Using Scrapy](https://www.analyticsvidhya.com/blog/2022/05/scraping-jobs-on-linkedin-using-scrapy/)
-- [Master the Web Scraping in 5 minutes](https://medium.com/@srang992/master-the-web-scraping-in-5-minutes-61719f96a722?source=rss-2aa615ea23c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
