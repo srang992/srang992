@@ -15,11 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Making a Multipaged Application using Streamlit](https://www.analyticsvidhya.com/blog/2022/08/making-a-multipaged-application-using-streamlit-on-hold/)
-- [Analysis on Dark Chocolates using Python and Plotly](https://www.analyticsvidhya.com/blog/2022/07/analysis-on-dark-chocolates-using-python-and-plotly/)
-- [A Comprehensive Guide to Heroku Postgres](https://www.analyticsvidhya.com/blog/2022/06/a-comprehensive-guide-to-heroku-postgres/)
-- [Video Game Clustering Using Python](https://www.analyticsvidhya.com/blog/2022/06/video-game-clustering-using-python/)
-- [Customer Churn Prediction of a Telecom Company Using Python](https://www.analyticsvidhya.com/blog/2022/06/customer-churn-prediction-of-a-telecom-company-using-python/)
+- [Master the Web Scraping in 5 minutes](https://medium.com/@srang992/master-the-web-scraping-in-5-minutes-61719f96a722?source=rss-2aa615ea23c3------2)
+- [Making a Movie Recommendation App using Streamlit and Docker &lpar;Part-2&rpar;](https://medium.com/@srang992/making-a-movie-recommendation-app-using-streamlit-and-docker-part-2-9f000c491a8f?source=rss-2aa615ea23c3------2)
+- [Making a Movie Recommendation App using Streamlit and Docker &lpar;Part-1&rpar;](https://medium.com/@srang992/making-a-movie-recommendation-app-using-streamlit-and-docker-part-1-8dee8983cea9?source=rss-2aa615ea23c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
