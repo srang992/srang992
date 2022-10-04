@@ -15,8 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Master the Web Scraping in 5 minutes](https://medium.com/@srang992/master-the-web-scraping-in-5-minutes-61719f96a722?source=rss-2aa615ea23c3------2)
-- [Making a Movie Recommendation App using Streamlit](https://medium.com/@srang992/making-a-movie-recommendation-app-using-streamlit-and-docker-part-1-8dee8983cea9?source=rss-2aa615ea23c3------2)
+- [Analysis of Australian Shark Attacks](https://www.analyticsvidhya.com/blog/2022/09/analysis-of-australian-shark-attacks/)
+- [Making a Multipaged Application using Streamlit](https://www.analyticsvidhya.com/blog/2022/08/making-a-multipaged-application-using-streamlit-on-hold/)
+- [Analysis on Dark Chocolates using Python and Plotly](https://www.analyticsvidhya.com/blog/2022/07/analysis-on-dark-chocolates-using-python-and-plotly/)
+- [A Comprehensive Guide to Heroku Postgres](https://www.analyticsvidhya.com/blog/2022/06/a-comprehensive-guide-to-heroku-postgres/)
+- [Video Game Clustering Using Python](https://www.analyticsvidhya.com/blog/2022/06/video-game-clustering-using-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
