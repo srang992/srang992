@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rasa, Spacy**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@srang992)
+- 📝 I regularly write articles on [Medium](https://medium.com/@srang992) and [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/subhradeep06/)
 
 - 💬 Ask me about **Data Science tools**
 
