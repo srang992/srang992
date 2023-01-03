@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Context Manager](https://www.analyticsvidhya.com/blog/2023/01/a-beginners-guide-to-context-manager/)
 - [An Introduction to Julia for Data Analysis](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-julia-for-data-analysis/)
 - [Analysis of Restaurants in the United States](https://www.analyticsvidhya.com/blog/2022/10/analysis-of-chain-and-independent-restaurants-in-the-united-states/)
 - [Analysis of Australian Shark Attacks](https://www.analyticsvidhya.com/blog/2022/09/analysis-of-australian-shark-attacks/)
 - [Making a Multipaged Application using Streamlit](https://www.analyticsvidhya.com/blog/2022/08/making-a-multipaged-application-using-streamlit-on-hold/)
-- [Analysis on Dark Chocolates using Python and Plotly](https://www.analyticsvidhya.com/blog/2022/07/analysis-on-dark-chocolates-using-python-and-plotly/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
