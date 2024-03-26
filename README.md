@@ -16,7 +16,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Step-by-Step Guide to PDF Chatbots with Langchain and Ollama](https://www.analyticsvidhya.com/blog/2023/10/a-step-by-step-guide-to-pdf-chatbots-with-langchain-and-ollama/)
-- [A Beginner’s Guide to Context Manager](https://www.analyticsvidhya.com/blog/2023/01/a-beginners-guide-to-context-manager/)
+- [A Beginner’s Guide to Python Context Manager](https://www.analyticsvidhya.com/blog/2023/01/a-beginners-guide-to-context-manager/)
 - [An Introduction to Julia for Data Analysis](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-julia-for-data-analysis/)
 - [Analysis of Restaurants in the United States](https://www.analyticsvidhya.com/blog/2022/10/analysis-of-chain-and-independent-restaurants-in-the-united-states/)
 - [Analysis of Australian Shark Attacks](https://www.analyticsvidhya.com/blog/2022/09/analysis-of-australian-shark-attacks/)
