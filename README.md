@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Code, My Rules: Running a Customizable Chat-Based Coding Assistant with Msty](https://ai.plainenglish.io/my-code-my-rules-running-a-customizable-chat-based-coding-assistant-with-msty-09a7b13d821d?source=rss-2aa615ea23c3------2)
 - [5 Game-Changing Python Tricks I Wish I Learned Earlier](https://medium.com/top-python-libraries/5-game-changing-python-tricks-i-wish-i-learned-earlier-9ed318d0980f?source=rss-2aa615ea23c3------2)
 - [RAGate: Elevating AI Conversations with Adaptive Knowledge Retrieval](https://generativeai.pub/ragate-elevating-ai-conversations-with-adaptive-knowledge-retrieval-43795be8773d?source=rss-2aa615ea23c3------2)
 - [A Beginner’s Guide to Flet](https://medium.com/top-python-libraries/a-beginners-guide-to-flet-36c98f966011?source=rss-2aa615ea23c3------2)
 - [A Step-by-Step Guide to PDF Chatbots with Langchain and Ollama](https://www.analyticsvidhya.com/blog/2023/10/a-step-by-step-guide-to-pdf-chatbots-with-langchain-and-ollama/)
-- [A Beginner’s Guide to Python Context Manager](https://www.analyticsvidhya.com/blog/2023/01/a-beginners-guide-to-context-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
