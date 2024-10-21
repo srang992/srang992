@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet OpenVINO: A Tool that Exceeded My Expectations](https://generativeai.pub/meet-openvino-a-tool-that-exceeded-my-expectations-7ec5c0bb9a6a?source=rss-2aa615ea23c3------2)
 - [Llama 3.2 for Artistic Expression: How to Create Effective Image Prompts](https://generativeai.pub/llama-3-2-for-artistic-expression-how-to-create-effective-image-prompts-3537c06ae96f?source=rss-2aa615ea23c3------2)
 - [My Code, My Rules: Running a Customizable Chat-Based Coding Assistant with Msty](https://ai.plainenglish.io/my-code-my-rules-running-a-customizable-chat-based-coding-assistant-with-msty-09a7b13d821d?source=rss-2aa615ea23c3------2)
 - [5 Game-Changing Python Tricks I Wish I Learned Earlier](https://medium.com/top-python-libraries/5-game-changing-python-tricks-i-wish-i-learned-earlier-9ed318d0980f?source=rss-2aa615ea23c3------2)
 - [RAGate: Elevating AI Conversations with Adaptive Knowledge Retrieval](https://generativeai.pub/ragate-elevating-ai-conversations-with-adaptive-knowledge-retrieval-43795be8773d?source=rss-2aa615ea23c3------2)
-- [A Beginner’s Guide to Flet](https://medium.com/top-python-libraries/a-beginners-guide-to-flet-36c98f966011?source=rss-2aa615ea23c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
