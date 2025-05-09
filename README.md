@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet OpenVINO: A Tool that Exceeded My Expectations](https://generativeai.pub/meet-openvino-a-tool-that-exceeded-my-expectations-7ec5c0bb9a6a?source=rss-2aa615ea23c3------2)
-- [Llama 3.2 for Artistic Expression: How to Create Effective Image Prompts](https://generativeai.pub/llama-3-2-for-artistic-expression-how-to-create-effective-image-prompts-3537c06ae96f?source=rss-2aa615ea23c3------2)
-- [My Code, My Rules: Running a Customizable Chat-Based Coding Assistant with Msty](https://ai.plainenglish.io/my-code-my-rules-running-a-customizable-chat-based-coding-assistant-with-msty-09a7b13d821d?source=rss-2aa615ea23c3------2)
-- [5 Game-Changing Python Tricks I Wish I Learned Earlier](https://medium.com/top-python-libraries/5-game-changing-python-tricks-i-wish-i-learned-earlier-9ed318d0980f?source=rss-2aa615ea23c3------2)
-- [RAGate: Elevating AI Conversations with Adaptive Knowledge Retrieval](https://generativeai.pub/ragate-elevating-ai-conversations-with-adaptive-knowledge-retrieval-43795be8773d?source=rss-2aa615ea23c3------2)
+- [A Step-by-Step Guide to PDF Chatbots with Langchain and Ollama](https://www.analyticsvidhya.com/blog/2023/10/a-step-by-step-guide-to-pdf-chatbots-with-langchain-and-ollama/)
+- [A Beginner’s Guide to Python Context Manager](https://www.analyticsvidhya.com/blog/2023/01/a-beginners-guide-to-context-manager/)
+- [An Introduction to Julia for Data Analysis](https://www.analyticsvidhya.com/blog/2022/11/an-introduction-to-julia-for-data-analysis/)
+- [Analysis of Restaurants in the United States](https://www.analyticsvidhya.com/blog/2022/10/analysis-of-chain-and-independent-restaurants-in-the-united-states/)
+- [Analysis of Australian Shark Attacks](https://www.analyticsvidhya.com/blog/2022/09/analysis-of-australian-shark-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
